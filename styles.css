@@ -22,3 +22,8 @@ body {
 .nav-link:hover {
   color: #4fc3f7 !important;
 }
+
+/* Logo */
+.logo {
+  width: 50px;
+}
