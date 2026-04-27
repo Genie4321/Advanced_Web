@@ -140,3 +140,10 @@ body {
 .footer-logo {
   width: 120px;
 }
+.testimonial-card {
+  transition: 0.3s;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-8px);
+}
